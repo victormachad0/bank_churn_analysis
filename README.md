@@ -86,7 +86,7 @@ rápida porem mantendo uma boa qualidade, posteriormente poderemos voltar para o
 
 - **Resultados financeiros:** Tradução do resultado do modelo para um resultado financeiro, tornando fácil o entendimento dos resultados.
 
-## 4.0. Os 5 principais insights do negócio
+## 4.0. Os 4 principais insights do negócio
 
 - ### **H1:** Clientes com somente um produto são os que mais dão churn.
 <h1 align="left"><img alt="rossmann" title="#logo" src="./img/churn_per_product.png" /></h1>
@@ -97,10 +97,7 @@ rápida porem mantendo uma boa qualidade, posteriormente poderemos voltar para o
 - ### **H3:** Clientes ativos dão menos menos churn do que clientes não ativos.
 <h1 align="left"><img alt="rossmann" title="#logo" src="./img/churn_per_activity.png" /></h1>
 
-- ### **H4:** 
-<h1 align="left"><img alt="rossmann" title="#logo" src="./img/h4.png" /></h1>
-
-- ### **H5:** Na alemanha é onde temos menos clientes e a maior taxa de churn.
+- ### **H4:** Na alemanha é onde temos menos clientes e a maior taxa de churn.
 
 <h1 align="left"><img alt="rossmann" title="#logo" src="./img/churn_per_geography.png" /></h1>
 
