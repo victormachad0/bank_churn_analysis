@@ -200,3 +200,6 @@ _Clientes selecionados para receber o gift card segundo o Knapsack_
     * Utilizando o modelo, o ROI seria de  **$3,814,277.68**
 
 
+### Contato 
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-machado1/)
