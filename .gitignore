@@ -38,7 +38,10 @@ c08_pipeline.ipynb
 
 catboost_info
 
+__pycache__
+
 churn
 
+plots.py
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,jupyternotebooks
