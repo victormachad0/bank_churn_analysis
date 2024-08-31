@@ -92,7 +92,7 @@ rápida porem mantendo uma boa qualidade, posteriormente poderemos voltar para o
 <h1 align="left"><img alt="rossmann" title="#logo" src="./img/churn_per_product.png" /></h1>
 
 - ### **H2:** Clientes com idade entre 40 e 50 anos são os que mais dão churn.
-<h1 align="left"><img alt="rossmann" title="#logo" src="./img/churn_per_age.png" /></h1>
+<h1 align="left"><img alt="rossmann" title="#logo" src="./img/churn_per_age.png"/></h1>
 
 - ### **H3:** Clientes ativos dão menos menos churn do que clientes não ativos.
 <h1 align="left"><img alt="rossmann" title="#logo" src="./img/churn_per_activity.png" /></h1>
@@ -155,15 +155,14 @@ do LGBM Classifier, o resultado foi o seguinte:
 |------------|----------------|-------------|
 |LGBM Classifier			|0.371|0.909|
 
+<h1 align="left"><img alt="rossmann" title="#logo" src="./img/model_results.png" /></h1>
 
 
-## 6.0. Bussiness Results
+## 6.0. Bussiness Results with Knapsack Problem
 
-Para transformar os resultados do modelo em resultado financeiro para o negócio, foi adotado uma estratégia usando o Knapsack Problem. Além disto, foi calculado também o ROI para diferentes tipos de abordagem, como por exemplo de escolha randomica. 
+<h1 align="left"><img alt="rossmann" title="#logo" src="./img/knapsack.png" width=1000 /></h1>
 
-Sobre o Knapsack Problem:
-
-Imagine que você tem uma mochila que pode carregar até 10 kg e quatro itens com diferentes pesos e valores. Seu objetivo é escolher os itens que maximizem o valor total sem ultrapassar o limite de peso. Aplicamos este princípio ao selecionar clientes, onde:
+Para transformar os resultados do modelo em resultado financeiro para o negócio, foi adotado uma estratégia usando o Knapsack Problem. Imagine que você tem uma mochila que pode carregar até 15kg e quatro itens com diferentes pesos e valores. Seu objetivo é escolher os itens que maximizem o valor total sem ultrapassar o limite de peso. Aplicamos este princípio ao selecionar clientes, onde:
 
 - **Itens:** Clientes
 
